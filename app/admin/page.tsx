@@ -63,7 +63,7 @@ const recentActivities = [
     id: "ACT002",
     action: "Fee Payment",
     user: "Parent",
-    target: "₦150,000 for Tuition",
+    target: "₵150,000 for Tuition",
     timestamp: "Today, 09:15 AM",
   },
   {
